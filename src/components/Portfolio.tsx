@@ -4,10 +4,10 @@ import { Badge } from "@/components/ui/badge";
 import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
 import { TrendingUp, Clock, DollarSign, ChevronUp, CheckCircle } from "lucide-react";
 
-import emailWorkflowImage from "@/assets/email-workflow-automation.png";
-import aiSupportImage from "@/assets/ai-bot-automation.png";
-import calendarInboxImage from "@/assets/calendar-inbox-management.png";
-import clientOnboardingImage from "@/assets/airtable-slack-typeform.png";
+import emailWorkflowImage from "@/assets/email-workflow-automation.webp";
+import aiSupportImage from "@/assets/ai-bot-automation.webp";
+import calendarInboxImage from "@/assets/calendar-inbox-management.webp";
+import clientOnboardingImage from "@/assets/airtable-slack-typeform.webp";
 
 const Portfolio = () => {
   const [openImage, setOpenImage] = useState<number | null>(null);

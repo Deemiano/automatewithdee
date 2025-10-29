@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Calendar, Zap, Bot, Clock, ChevronDown } from "lucide-react";
-import heroImage from "@/assets/dennis-hero.png";
+import heroImage from "@/assets/dennis-hero.webp";
 
 const Hero = () => {
   const handleWorkWithMe = () => {

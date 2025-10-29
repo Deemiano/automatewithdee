@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Check, ArrowRight } from "lucide-react";
-import packagesBg from "@/assets/packages-bg.png";
+import packagesBg from "@/assets/packages-bg.webp";
 
 const Packages = () => {
   const packages = [
