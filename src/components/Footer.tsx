@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* About */}
           <div>
-            <h3 className="font-bold text-lg mb-4">Dennis (Dee) Muchiri</h3>
+            <h3 className="font-bold text-lg mb-4">Dennis Muchiri Miano</h3>
             <p className="text-sm text-primary-foreground/80 mb-4">
               Tech Virtual Assistant specializing in AI, automation, and workflow optimization for busy founders
               and executives.
