@@ -17,7 +17,7 @@ const Hero = () => {
           {/* Content */}
           <div className="text-center lg:text-left animate-fade-in">
             <h1 className="text-4xl lg:text-6xl font-bold text-primary-foreground mb-4">
-              Dennis (Dee) Muchiri
+              Dennis Muchiri
             </h1>
             <p className="text-xl lg:text-2xl text-accent font-semibold mb-4">
               Tech Virtual Assistant | AI • Automation • Workflow Optimization
@@ -91,7 +91,7 @@ const Hero = () => {
               />
               {/* Bouncing greeting bubble */}
               <div className="absolute -top-4 -right-4 bg-accent text-accent-foreground px-4 py-2 rounded-full shadow-strong animate-bounce">
-                <span className="text-sm font-semibold">Hi, I'm Dee 👋</span>
+                <span className="text-sm font-semibold">Hi, I'm Dennis 👋</span>
               </div>
             </div>
           </div>
